@@ -25,7 +25,7 @@
 1.  **Clone the Repository**
 
     ```bash
-    git clone https://github.com/yourusername/ghost-pixel.git
+    git clone https://github.com/Cyxx-kali/ghost-pixel.git
     cd ghost-pixel
     ```
 
